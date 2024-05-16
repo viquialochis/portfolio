@@ -27,63 +27,7 @@
     "tools": "Otras Herramientas",
     "english": "Inglés B2"
   },
-  "PJS": {
-    "title": "Proyectos",
-    "projects": [
-      {
-        "title": "Chatz",
-        "content": "Chat grupal en linea ideal para equipos y entornos grupales.",
-        "img": "/projects/chat.webp",
-        "tecnology": ["React", "Tailwind", "Node", "Socket io"],
-        "tag": ["react", "tailwind", "node", "socketio"],
-        "icon": "chat",
-        "link": "https://chat-draquio.vercel.app/",
-        "code": "https://github.com/draquio/chat-client"
-      },
-      {
-        "title": "DescargaVideos",
-        "content": "Descarga videos totalmente gratis de Youtube y Tiktok",
-        "img": "/projects/descargavideos.webp",
-        "tecnology": ["React", "TypeScript", "Sass"],
-        "tag": ["react", "typescript", "sass"],
-        "icon": "cloud download",
-        "link": "https://descargavideos.vercel.app/",
-        "code": "https://github.com/draquio/VideoDonwloader"
-      },
-      {
-        "title": "Web del Clima",
-        "content": "Página web donde podrás consultar el clima de tu ciudad con detalles por hora y por día.",
-        "img": "/projects/clima.webp",
-        "tecnology": ["NextJs", "Tailwind"],
-        "tag": ["next", "tailwind"],
-        "icon": "cloud",
-        "link": "https://clima-draquio.vercel.app/",
-        "code": "https://github.com/draquio/weather"
-      },
-      {
-        "title": "Traductor",
-        "content": "Traductor de varios idiomas",
-        "img": "/projects/traductor.webp",
-        "tecnology": ["React", "TypeScript", "Sass"],
-        "tag": ["react", "typescript", "sass"],
-        "icon": "translate",
-        "link": "https://traductor-bice.vercel.app/",
-        "code": "https://github.com/draquio/traductor"
-      },
-      {
-        "title": "Generador de QR",
-        "content": "Genera y descargar QRs como imagen fácilmente para Whatsapp, URLs, Wifi, Email, etc",
-        "img": "/projects/qrgeneratorweb.webp",
-        "tecnology": ["React", "Redux Toolkit", "Sass"],
-        "tag": ["react", "redux", "sass"],
-        "icon": "qrcode",
-        "link": "https://qrg.draquio.vercel.app/",
-        "code": "https://github.com/draquio/qrgenerator"
-      }
-    ],
-    "demo": "Ver demo",
-    "code": "Ver código"
-  },
+
   "CF": {
     "title": "Formulario de contacto",
     "name": "Tu nombre",

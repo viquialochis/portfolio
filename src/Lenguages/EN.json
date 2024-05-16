@@ -39,8 +39,8 @@
         "tecnology": ["React", "Tailwind", "Node", "Socket io"],
         "tag": ["react", "tailwind", "node", "socketio"],
         "icon": "chat",
-        "link": "https://chat-draquio.vercel.app/",
-        "code": "https://github.com/draquio/chat-client"
+        "link": "https://chat-viquialochis.vercel.app/",
+        "code": "https://github.com/viquialochis/chat-client"
       },
       {
         "title": "DownloadVideos",
@@ -50,7 +50,7 @@
         "tag": ["react", "typescript", "sass"],
         "icon": "cloud download",
         "link": "https://descargavideos.vercel.app/",
-        "code": "https://github.com/draquio/VideoDonwloader"
+        "code": "https://github.com/viquialochis/VideoDonwloader"
       },
       {
         "title": "Weather Website",
@@ -59,8 +59,8 @@
         "tecnology": ["NextJs", "Tailwind"],
         "tag": ["next", "tailwind"],
         "icon": "cloud",
-        "link": "https://clima-draquio.vercel.app/",
-        "code": "https://github.com/draquio/weather"
+        "link": "https://clima-viquialochis.vercel.app/",
+        "code": "https://github.com/viquialochis/weather"
       },
       {
         "title": "Translate",
@@ -70,7 +70,7 @@
         "tag": ["react", "typescript", "sass"],
         "icon": "translate",
         "link": "https://traductor-bice.vercel.app/",
-        "code": "https://github.com/draquio/traductor"
+        "code": "https://github.com/viquialochis/traductor"
       },
       {
         "title": "QR Generator",
@@ -79,8 +79,8 @@
         "tecnology": ["React", "Redux Toolkit", "Sass"],
         "tag": ["react", "redux", "sass"],
         "icon": "qrcode",
-        "link": "https://qrg.draquio.vercel.app/",
-        "code": "https://github.com/draquio/qrgenerator"
+        "link": "https://qrg.viquialochis.vercel.app/",
+        "code": "https://github.com/viquialochis/qrgenerator"
       }
   
     ],

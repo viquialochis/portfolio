@@ -79,18 +79,7 @@ export function Nav(props) {
                 {len.skills}
               </Link>
             </li>
-            <li>
-              <Link
-                activeClass="active"
-                to="projects"
-                spy={true}
-                smooth={true}
-                offset={0}
-                duration={500}
-              >
-                {len.projects}
-              </Link>
-            </li>
+           
             <li>
               <Link
                 activeClass="active"

@@ -3,7 +3,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { Analytics } from "@vercel/analytics/react";
-import { Firstsection, Nav, Footer, ProjectSections, Aboutmesection, Skillssection, Contactsection } from "../Sections";
+import { Firstsection, Nav, Footer, Aboutmesection, Skillssection, Contactsection } from "../Sections";
 import "./home.scss";
 import { useSelector } from "react-redux";
 import EN from "../Lenguages/EN.json";
@@ -32,7 +32,6 @@ export function Home() {
         <Firstsection  language={language} />
         <Aboutmesection language={language.AM} />
         <Skillssection  language={language.SK} skills={language.SKILLS} />
-        <ProjectSections language={language.PJS} />
         <Contactsection language={language.CF} />
         <SpeedInsights />
         <Analytics />

@@ -3,7 +3,7 @@ import "./ProjectSections.scss";
 import { Link } from "react-router-dom";
 import { Icon } from "semantic-ui-react";
 import LazyLoad from "react-lazy-load";
-
+/*
 export function ProjectSections(props) {
   const { language } = props;
   return (
@@ -56,3 +56,4 @@ export function ProjectSections(props) {
     </div>
   );
 }
+*/
