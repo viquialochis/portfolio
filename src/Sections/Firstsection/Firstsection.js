@@ -24,7 +24,7 @@ export function Firstsection(props) {
     };
   }, [language]);
   return (
-    <div id="draquio" data-aos="fade-down"  className="first-block">
+    <div id="viquialochis" data-aos="fade-down"  className="first-block">
       <div className="img_block">
         <div className="avatar_main"></div>
       </div>
@@ -40,18 +40,18 @@ export function Firstsection(props) {
         <div className="icons_profile">
           <Link
             target="_blank"
-            to="https://www.linkedin.com/in/sergio-mercado-galarza-4a4b42274/"
+            to="https://www.linkedin.com/in/victoria-alochis/"
           >
             <Icon size="large" name="linkedin" />
           </Link>
           <Link
             target="_blank"
-            to="https://github.com/draquio"
+            to="https://github.com/viquialochis"
           >
             <Icon size="large" name="github" />
           </Link>
           <Link
-            to="mailto:draquio@gmail.com"
+            to="mailto:vikialochis@hotmail.com"
           >
             <Icon size="large" name="mail" />
           </Link>

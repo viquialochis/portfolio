@@ -7,7 +7,7 @@ import LazyLoad from "react-lazy-load";
 export function ProjectSections(props) {
   const { language } = props;
   return (
-    <div style={{minHeight:'2700px', height:'100%'}}>
+    <div style={{minHeight:'900px', height:'100%'}}>
       <div id="projects"></div>
       <LazyLoad offset={0}>
       <div className="project_sections">

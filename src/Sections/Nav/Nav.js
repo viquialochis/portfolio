@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { changelanguage } from "../../feactures/languages/languageSlice";
 import { Link } from "react-scroll";
 import "semantic-ui-css/components/transition.min.css";
+
 export function Nav(props) {
   const { len } = props;
   const disaptch = useDispatch();
@@ -29,13 +30,13 @@ export function Nav(props) {
       <div className="nav_content">
         <div className="logo">
           <Link
-            to="draquio"
+            to="viquialochis"
             spy={true}
             smooth={true}
             offset={-100}
             duration={500}
           >
-            &lt;Draquio/&gt;
+            &lt;viquialochis/&gt;
           </Link>
         </div>
         <input

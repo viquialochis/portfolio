@@ -6,20 +6,20 @@
     "contact": "Contacto"
   },
   "FS": {
-    "title": "Ing. Sergio Mercado",
+    "title": "Victoria Alochis",
     "rol": {
-      "dev": "Desarrollador Web",
-      "ing": "Ingeniero de Sistemas"
+      "dev": "Desarrolladora/Tester",
+      "ing": "Analista en Sistemas"
     },
-    "content": "Soy Sergio Mercado, <b>Ingeniero de Sistemas</b> con un nivel de <b>inglés B2</b>, hace 1 año y medio me dedico al <b>desarrollo web</b> enfocado en las buenas prácticas y metodologías ágiles para brindar resultados de calidad.",
+    "content": "Soy Victoria Alochis, una <b>Analista de Sistemas</b> con un nivel de inglés <b>B2</b>. He estado aplicando los conocimientos adquiridos como <b>desarrolladora</b>, centrándome en buenas prácticas y metodologías ágiles para ofrecer resultados de calidad.",
     "button": "Descargar CV",
-    "document": "Ing_Sergio_Mercado_CV"
+    "document": "CV_ES"
   },
   "AM": {
     "title": "Sobre mi",
-    "content_One": "Hola, soy Sergio Mercado Galarza, tengo 27 años y soy de Bolivia, estudié <b class='bg_text bg_yellow'>Ingeniería en Sistemas</b> en la Universidad Privada Domingo Savio y también <b class='bg_text bg_purple'>Inglés</b> en el Centro Boliviano Americano (CBA).",
-    "content_Two": "Tengo más de <b>1 año y medio</b> trabajando con diferentes tecnologías, la mayoría en proyectos personales monetizados, también trabajé haciendo <b class='text_line_bottom'>SEO para blogs</b> y canales de Youtube.",
-    "content_Three": "Una de mis mayores metas es poder dedicarme a tiempo completo a mi más grande pasión, el <b class='bg_text bg_red'>'Desarrollo Web'</b>."
+    "content_One": "Hola, soy Victoria Alochis, tengo 26 años y soy de Argentina, estudié <b class='bg_text bg_yellow'>Analista en Sistemas</b> en la Universidad Tecnológica Nacional.",
+    "content_Two": "Tengo menos de <b>1 año y medio</b> de experiencia trabajando con diversas tecnologías, principalmente a través de proyectos personales desarrollados durante mis estudios universitarios. Durante este tiempo, he perfeccionado mis habilidades en desarrollo de software, análisis de sistemas y resolución de problemas.",
+    "content_Three": "Uno de mis mayores objetivos es poder sumergirme en el mundo del <b class='bg_text bg_red'>'Desarrollo en la Nube'</b>."
   },
   "SK": {
     "title": "Habilidades",
@@ -30,16 +30,6 @@
   "PJS": {
     "title": "Proyectos",
     "projects": [
-      {
-        "title": "TheMovie",
-        "content": "Página web de películas y series, así como las tendencias en ambas secciones.",
-        "img": "/projects/themovie.webp",
-        "tecnology": ["React", "Sass"],
-        "tag": ["react", "sass"],
-        "icon": "tv",
-        "link": "https://themovie-draquio.vercel.app/",
-        "code": "https://github.com/draquio/themovie"
-      },
       {
         "title": "Chatz",
         "content": "Chat grupal en linea ideal para equipos y entornos grupales.",
@@ -89,94 +79,6 @@
         "icon": "qrcode",
         "link": "https://qrg.draquio.vercel.app/",
         "code": "https://github.com/draquio/qrgenerator"
-      },
-      {
-        "title": "TheStore - Tienda en Linea",
-        "content": "Tienda en linea con LocalStorage y useContext",
-        "img": "/projects/thestore.webp",
-        "tecnology": ["React", "Sass", "LocalStorage"],
-        "tag": ["react", "sass", "localstorage"],
-        "icon": "shopping cart",
-        "link": "https://thestoreweb.vercel.app/",
-        "code": "https://github.com/draquio/thestore"
-      },
-      {
-        "title": "Blog React - Node",
-        "content": "Un blog con Front y Backend creado con el MERN stack.",
-        "img": "/projects/reactblog.webp",
-        "tecnology": ["React", "Node", "Sass"],
-        "tag": ["react", "node", "sass"],
-        "icon": "blogger",
-        "link": "https://draquioblog.vercel.app/",
-        "code": "https://github.com/draquio/frontendblog"
-      },
-      {
-        "title": "GifApp",
-        "content": "Página web de Gifs mediante una API con buscador",
-        "img": "/projects/thegifs.webp",
-        "tecnology": ["Angular", "LocalStorage"],
-        "tag": ["angular", "localstorage"],
-        "icon": "folder open",
-        "link": "https://gifs-draquio.vercel.app/",
-        "code": "https://github.com/draquio/GifsApp"
-      },
-      {
-        "title": "ThePics",
-        "content": "Página web de galería de imágenes",
-        "img": "/projects/thepics.webp",
-        "tecnology": ["React", "Typescript", "Sass"],
-        "tag": ["react", "typescript", "sass"],
-        "icon": "image",
-        "link": "https://thepics-draquio.vercel.app/",
-        "code": "https://github.com/draquio/thepics"
-      },
-      {
-        "title": "Prueba técnica - Productos",
-        "content": "Página web de prueba técnica de una tienda para registro de venta de productos.",
-        "img": "/projects/pruebatecnica1.webp",
-        "tecnology": ["React", "Sass", "LocalStorage"],
-        "tag": ["react", "sass" ,"localstorage"],
-        "icon": "shopping basket",
-        "link": "https://prueba-tecnica-tienda-draquio.vercel.app/",
-        "code": "https://github.com/draquio/prueba-tecnica-fullstack-frontend"
-      },
-      {
-        "title": "Prueba técnica Fullstack - Notas",
-        "content": "Página web para crear, editar, eliminar y archivar notas con Login por Usuario",
-        "img": "/projects/notas.webp",
-        "tecnology": ["React", "Sass", "Node"],
-        "tag": ["react", "sass" ,"node"],
-        "icon": "sticky note",
-        "link": "https://fullstack-frontend-nu.vercel.app/",
-        "code": "https://github.com/draquio/prueba-tecnica-tienda"
-      },
-      {
-        "title": "Portfolio personal",
-        "content": "Portfolio personal realizado con React y Redux Toolkit",
-        "img": "/projects/draquio-portfolio.webp",
-        "tecnology": ["React", "Redux Toolkit", "Sass"],
-        "tag": ["react", "redux", "sass"],
-        "icon": "address card",
-        "link": "https://draquioportfolio.vercel.app/",
-        "code": "https://github.com/draquio/portfolio"
-      },
-      {
-        "title": "DameFans",
-        "content": "DameFans fue una web de intercambios sociales con +120k Usuarios y +1 millón de visitas/mes",
-        "img": "/projects/damefans.webp",
-        "tecnology": ["Php"],
-        "tag": ["php"],
-        "icon": "fire",
-        "link": "https://web.archive.org/web/20190914214728/https://damefans.com/"
-      },
-      {
-        "title": "Draquio Blog Wordpress",
-        "content": "Blog realizado con Wordpress con SEO realizado para posicionar en ciertas palabras clave",
-        "img": "/projects/blog-wordpress.webp",
-        "tecnology": ["Wordpress"],
-        "tag": ["wordpress"],
-        "icon": "microphone",
-        "link": "https://www.draquio.com/"
       }
     ],
     "demo": "Ver demo",
@@ -188,7 +90,7 @@
     "mail": "tucorreo@mail.com",
     "content": "Quiero hablar contigo",
     "info": "Háblame directamente a mi correo:",
-    "email": "draquio@gmail.com",
+    "email": "vikialochis@hotmail.com",
     "button": "Enviar"
   },
   "SKILLS": {
@@ -210,26 +112,6 @@
         "icon": "/tecnologies/react.svg"
       },
       {
-        "skill": "Next",
-        "icon": "/tecnologies/next.svg"
-      },
-      {
-        "skill": "TypeScript",
-        "icon": "/tecnologies/typescript.svg"
-      },
-      {
-        "skill": "Angular",
-        "icon": "/tecnologies/angular.svg"
-      },
-      {
-        "skill": "Redux",
-        "icon": "/tecnologies/redux.svg"
-      },
-      {
-        "skill": "Tailwind",
-        "icon": "/tecnologies/tailwind.svg"
-      },
-      {
         "skill": "Bootstrap",
         "icon": "/tecnologies/bootstrap.svg"
       },
@@ -239,10 +121,7 @@
       }
     ],
     "Backend":[
-      {
-        "skill": "PHP",
-        "icon": "/tecnologies/php.svg"
-      },
+
       {
         "skill": "NodeJs",
         "icon": "/tecnologies/node-js.svg"
@@ -253,10 +132,7 @@
       }
     ],
     "Testing":[
-      {
-        "skill": "Vitest",
-        "icon": "/tecnologies/vitest.svg"
-      },
+
       {
         "skill": "Jest",
         "icon": "/tecnologies/jest.svg"
@@ -284,14 +160,6 @@
       {
         "skill": "Git",
         "icon": "/tecnologies/git.svg"
-      },
-      {
-        "skill": "SEO",
-        "icon": "/tecnologies/seo.svg"
-      },
-      {
-        "skill": "Wordpress",
-        "icon": "/tecnologies/wordpress.svg"
       },
       {
         "skill": "Photoshop",
